@@ -8,10 +8,10 @@ Live demo: https://specbug.github.io/
 
 ##Note
 
-This site does not contain the most efficient, updated, researched or even the most reliable info, it is only meant to be used as a  reference.
-Obviously there could've been more functionalities added and could've been integrated with backend but this was only meant to sharpen my UI skills.
+This site does not contain the most efficient, updated, researched or even the most reliable info, it is only meant to be used as a  reference. It was merely to sharpen my UI skills for now, but I'll try to host one with detailed research and better functionalities with more focus on practical approach, later.
 
 ##Credits
 
 The information provided is obtained(mostly) from [Wikipedia](https://www.wikipedia.org/).
+
 Special thanks to [Mike Bostock](https://github.com/mbostock)
